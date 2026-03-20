@@ -2,9 +2,9 @@
 <p align="center"><i>"Code should be as light as a shadow and as fast as a pulse."</i></p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Writing Code-00ff00?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Status-Optimizing-00ff00?style=flat-square"/>
   <img src="https://img.shields.io/badge/Focus-Clean_Code-white?style=flat-square"/>
-  <img src="https://img.shields.io/github/languages/top/m0tycord-pixel/NanLang?color=black&style=flat-square"/>
+  <img src="https://img.shields.io/github/languages/top/p1rater/NanLang?color=black&style=flat-square"/>
 </p>
 
 ---
